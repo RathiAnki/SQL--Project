@@ -7,9 +7,6 @@ Welcome to my SQL Projects repository! This repository showcases my SQL skills t
 
 **[Pizza_Sales](https://github.com/RathiAnki/SQL--Project/blob/main/Pizza_sales.sql)**
 
-Source link: https://www.youtube.com/watch?v=zZpMvAedh_E&t=1893s(WScube tech)
-
-
  
 This repository reflects my journey of learning and applying SQL to solve real-world business problems. Each project includes well-structured queries, explanations, and insights to demonstrate practical SQL skills used in data analytics and business intelligence.
 
