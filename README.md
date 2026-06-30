@@ -5,7 +5,8 @@ Welcome to my SQL Projects repository! This repository showcases my SQL skills t
 
 ## Projects
 
- 1.Pizza Sales Analysis(Youtube: https://www.youtube.com/watch?v=zZpMvAedh_E&t=1893s)
+ 1.Pizza Sales Analysis
+ (https://www.youtube.com/watch?v=zZpMvAedh_E&t=1893s)
 
 
  
