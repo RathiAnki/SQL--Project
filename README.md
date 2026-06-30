@@ -5,8 +5,8 @@ Welcome to my SQL Projects repository! This repository showcases my SQL skills t
 
 ## Projects
 
- **1.Pizza Sales Analysis**
- (https://github.com/RathiAnki/SQL--Project/blob/main/Pizza_sales)
+[Pizza_Sales](https://github.com/RathiAnki/SQL--Project/blob/main/Pizza_sales.sql)
+Source link: https://www.youtube.com/watch?v=zZpMvAedh_E&t=1893s(WScube tech)
 
 
  
